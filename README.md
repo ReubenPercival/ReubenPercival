@@ -1,16 +1,15 @@
-## Hi there 👋
+# Reuben Percival
 
-<!--
-**ReubenPercival/ReubenPercival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer interested in Linux and open source software.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work primarily with systems programming and open source projects. I focus on building tools and utilities that run on Linux.
+
+## Tech Stack
+
+Shell Script, C, Go, Git
+
+## Contact
+
+Feel free to reach out or check out my projects.
