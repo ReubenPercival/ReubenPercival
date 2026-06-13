@@ -12,4 +12,8 @@ Shell Script, C, Go, Git
 
 ## Contact
 
-Feel free to reach out or check out my projects.
+Feel free to reach out or check out my projects. My email is provided on my github hosted website
+
+## website 
+
+        https://reubenpercival.github.io/webpage
