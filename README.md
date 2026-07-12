@@ -8,7 +8,8 @@ I work primarily with systems programming and open source projects. I focus on b
 
 ## Tech Stack
 
-Shell Script, C, Go, Git
+Shell Script, C, Go, Git 
+Learning : Asm via NASM. Also learning more JS/HTML
 
 ## Contact
 
