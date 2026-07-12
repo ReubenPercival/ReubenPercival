@@ -5,6 +5,7 @@ Developer interested in Linux and open source software.
 ## About
 
 I work primarily with systems programming and open source projects. I focus on building tools and utilities that run on Linux.
+Im currently in a group called the Orizon software foundation that makes FLOSS. 
 
 ## Tech Stack
 
