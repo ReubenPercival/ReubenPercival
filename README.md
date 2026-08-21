@@ -2,20 +2,26 @@
 
 ## About
 
-I work primarily with systems programming and open source projects. I focus on building tools and utilities that run on Linux.
+I work primarily with systems programming and open source projects, focusing on building tools and utilities for Linux environments.
 
-## Tech Stack
+## Skills & Technologies
 
-Shell Script, C, Go, Git, zsh , SystemD and Runit, DNS ( pihole ) and networking as a whole.
-
+- **Languages**: Shell Script, C, Go
+- **Tools & Systems**: Git, zsh, SystemD, Runit
+- **Specializations**: DNS (Pi-hole), Networking
 
 ## Contact
 
-Feel free to reach out or check out my projects. My email is reubenpercival@tutanota.de.
+Feel free to reach out with any questions or to discuss my projects.
 
-## PGP
+**Email**: reubenpercival@tutanota.de
 
-Use pgp to contact me. My key is -----BEGIN PGP PUBLIC KEY BLOCK-----
+## PGP Public Key
+
+For secure communication, please use my PGP public key:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaoiMdhYJKwYBBAHaRw8BAQdAmQxm19fw6lK3hKVjOA7TbPXPo6VWErqXqyil
 APTT4sC0I3JldWJlbiA8cmV1YmVucGVyY2l2YWxAdHV0YW5vdGEuZGU+iJYEExYK
@@ -28,3 +34,4 @@ dgIbDAUJBaSPOgAKCRBYoj/GvWgT3hdrAP90rK5RYFQgRBICQ4mRuvOz0yvw4WW/
 lThqrmNf07K+OwEAr3lwxvDiGTMwgQUBL3dcIBixRRQQcHVui/cH8L2fZgI=
 =igY+
 -----END PGP PUBLIC KEY BLOCK-----
+```
