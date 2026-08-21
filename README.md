@@ -11,5 +11,4 @@ Shell Script, C, Go, Git, zsh , SystemD and Runit, DNS ( pihole ) and networking
 
 ## Contact
 
-Feel free to reach out or check out my projects. My email is provided on my github hosted website
-
+Feel free to reach out or check out my projects. My email is reubenpercival@tutanota.de
