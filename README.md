@@ -2,7 +2,7 @@
 
 ## About
 
-I work primarily with systems programming and open source projects, focusing on building tools and utilities for Linux environments.
+I work primarily with systems programming and open source projects, focusing on building tools and utilities for Linux environments. Right now I am at the Orizon Software Foundation and Blue Hat OSS respectively 
 
 ## Skills & Technologies
 
