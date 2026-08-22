@@ -4,6 +4,9 @@
 
 I work primarily with systems programming and open source projects, focusing on building tools and utilities for Linux environments. Right now I am at the Orizon Software Foundation and Blue Hat OSS respectively 
 
+I currently run multiple Tor Snowflakes to ensure everyone has free access to the internet
+
+
 ## Skills & Technologies
 
 - **Languages**: Shell Script, C, Go
@@ -15,6 +18,7 @@ I work primarily with systems programming and open source projects, focusing on 
 Feel free to reach out with any questions or to discuss my projects.
 
 **Email**: reubenpercival@tutanota.de
+
 
 ## PGP Public Key
 
