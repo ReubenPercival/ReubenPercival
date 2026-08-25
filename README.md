@@ -2,15 +2,12 @@
 
 ## About
 
-I work primarily with systems programming and open source projects, focusing on building tools and utilities for Linux environments. Right now I am at the Orizon Software Foundation and Blue Hat OSS respectively 
-
-I currently run multiple Tor Snowflakes to ensure everyone has free access to the internet
-
+I work primarily with systems programming and open source projects, focusing on building tools and utilities for Linux environments ( Im also learning freeBSD and openBSD). Right now I am at the Orizon Software Foundation and Blue Hat OSS respectively 
 
 ## Skills & Technologies
 
 - **Languages**: Shell Script, C, Go
-- **Tools & Systems**: Git, zsh, SystemD, Runit
+- **Tools & Systems**: Git, zsh, SystemD,OpenRC .
 - **Specializations**: DNS (Pi-hole), Networking
 
 ## Contact
@@ -39,3 +36,15 @@ lThqrmNf07K+OwEAr3lwxvDiGTMwgQUBL3dcIBixRRQQcHVui/cH8L2fZgI=
 =igY+
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+
+## Preferred Licenses.
+### GPLv2
+Copyleft makes forks free 
+### EUPL
+European Public License ensures forks also stay free 
+
+
+
+# HATING ON
+Microsoft , Samsung , HP , DELL, USA GOV, 
