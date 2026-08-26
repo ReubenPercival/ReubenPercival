@@ -46,5 +46,4 @@ European Public License ensures forks also stay free
 
 
 
-# HATING ON
-Microsoft , Samsung , HP , DELL, USA GOV, 
+
