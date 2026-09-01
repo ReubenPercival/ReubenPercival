@@ -2,7 +2,8 @@
 
 ## About
 
-I work primarily with systems programming and open source projects, focusing on building tools and utilities for Linux environments ( Im also learning freeBSD and openBSD). Right now I am at the Orizo[...]
+I work primarily with systems programming and open source projects, focusing on building tools and utilities for Linux environments ( Im also learning freeBSD and openBSD).
+Learning kernel config and compiling it 
 
 ## Skills & Technologies
 
