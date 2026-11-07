@@ -1,5 +1,8 @@
-# Hi, I'm Reuben 
+# Hi, I'm Reuben
 
-I'm interested in technology and always learning something new.
+I'm interested in technology, Linux, and open source. I enjoy building my skills through hands-on learning and exploring how things work.
 
-[My Credly badges](https://www.credly.com/users/reuben-percival/badges/credly)
+## Certifications
+
+My Linux Foundation certifications and other verified credentials are listed on [Credly](https://www.credly.com/users/reuben-percival/badges/credly).
+
